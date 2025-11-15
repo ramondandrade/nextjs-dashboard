@@ -16,7 +16,7 @@ export default async function Page() {
           },
         ]}
       />
-      <Form action={createCustomer} />
+      <Form/>
     </main>
   );
 }
